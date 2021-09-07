@@ -1,0 +1,30 @@
+.main-body {
+  border: 8px solid #333;
+  border-radius: 20px;
+  
+}
+
+.main-header {
+  background-color: #999966;
+  text-align: center;
+}
+
+.my-name {
+  background-color: #00ffff;
+  text-align: center;
+  color: #ff0066;
+}
+
+.car-pic {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 8px solid #333;
+border-radius: 20px;
+}
+
+.car-details {
+  background-color: #ffff00;
+  text-align: center;
+  color: #3366ff;
+}
